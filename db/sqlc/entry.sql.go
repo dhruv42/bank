@@ -5,7 +5,6 @@ package db
 
 import (
 	"context"
-	"fmt"
 )
 
 const createEntry = `-- name: CreateEntry :one
